@@ -1,3 +1,11 @@
+Bu proje, güncel haberleri kullanıcı dostu bir arayüzde sunan, kategorilere göre haber listeleme, favorilere ekleme ve kullanıcıların kişiselleştirilmiş bir deneyim yaşamasını sağlayan bir Haber Derleyici Uygulamasıdır.
+
+Özellikler
+Haber Çekme: Güncel haberleri News API üzerinden çeker ve kullanıcıya sunar.
+Kategoriler: Haberler, farklı kategorilere göre sınıflandırılır ve görüntülenir.
+Arama Özelliği: Kullanıcıların istediği haberi kolayca bulabilmesi için arama çubuğu ile filtreleme yapılır.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
